@@ -81,7 +81,7 @@ const navigate = useNavigate();
     <input type="email" id = "email" value={email ||""} name="email" onChange = {handelChangeInput} placeholder="Your last email.."/>
 
     <label htmlFor="lname">Contact</label>
-    <input type="number" id = "contact" value={contact ||""} name="contact" onChange = {handelChangeInput} placeholder="Your lastcontact.."/>
+    <input type="number" id = "contact" value={contact ||""} name="contact" onChange = {handelChangeInput} placeholder="Your last contact.."/>
 
    
   
